@@ -49,8 +49,11 @@ print(model.predict(training_data).round())
 ```
 
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/65499285/169468591-fe5976a0-8c59-4909-959e-96a1724cda98.png)
 
-![Screenshot (15)](https://user-images.githubusercontent.com/75234646/168518291-ffea8d92-0644-4301-8c38-a74c6302cd53.png)
+![image](https://user-images.githubusercontent.com/65499285/169468736-356002c7-db59-41d3-8857-0c326995e75e.png)
+
+![image](https://user-images.githubusercontent.com/65499285/169468521-7d4a40c8-a621-4e27-8ede-b476025e01fc.png)
 
 ## RESULT:
 Thus the python program successully implemented XOR logic gate.
