@@ -12,7 +12,6 @@ Implementing logic gates using neural networks help understand the mathematical 
 <br>The truth table for an XOR gate is shown below:<br>
 ![image](https://user-images.githubusercontent.com/65499285/169467988-83bcb09f-85dd-41bf-91a6-885075d4f3c5.png)
 
-<br><br><br><br><br><br>
 ## ALGORITHM:
 1. Import the required libraries.
 2. Create the training dataset.
@@ -48,7 +47,6 @@ print("\n%s: %.2f%%" % (model.metrics_names[1],scores[1]*100))
 print(model.predict(training_data).round())
 
 ```
-<br><br><br><br><br><br>
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/65499285/169468591-fe5976a0-8c59-4909-959e-96a1724cda98.png)
 
