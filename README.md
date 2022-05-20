@@ -48,7 +48,7 @@ print("\n%s: %.2f%%" % (model.metrics_names[1],scores[1]*100))
 print(model.predict(training_data).round())
 
 ```
-
+<br><br><br>
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/65499285/169468591-fe5976a0-8c59-4909-959e-96a1724cda98.png)
 
